@@ -1,0 +1,11 @@
+id,title,description,price,rating,brand,category
+1,MacBook Pro M3,Latest Apple MacBook with M3 chip,159900,4.8,Apple,laptop
+2,Dell XPS 13,Ultra-thin laptop with 4K display,120000,4.5,Dell,laptop
+3,Sony WH-1000XM5,Noise cancelling wireless headphones,29000,4.7,Sony,headphones
+4,Logitech MX Master 3S,Performance wireless mouse,9000,4.9,Logitech,accessory
+5,Samsung S24 Ultra,AI phone with best camera,110000,4.6,Samsung,phone
+6,iPhone 15,Latest iPhone with dynamic island,79000,4.7,Apple,phone
+7,Sony Alpha 7 IV,Full frame mirrorless camera,220000,4.8,Sony,camera
+8,Nike Air Max,Comfortable running shoes,12000,4.4,Nike,shoes
+9,Kindle Paperwhite,E-reader with adjustable warm light,14000,4.6,Amazon,electronics
+10,Dyson V15 Detect,Cordless vacuum cleaner,55000,4.7,Dyson,home
